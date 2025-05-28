@@ -4,7 +4,7 @@ Virtual News Reporter is an AI-based voice-controlled system that delivers perso
 <br>
 
 ---
-<img src="https://github.com/Eshita-Badhe/Virtual_News_Reporter/blob/main/images/Fig1.jpg" alt="Virtual News Architecture" style="width:50%;height:auto;">
+<img src="https://github.com/Eshita-Badhe/Virtual-News_Reporter/blob/main/images/Fig1.JPG" alt="Virtual News Architecture" style="width:75%;height:auto;">
 
 ## Features
 <ul>
@@ -58,10 +58,10 @@ Virtual News Reporter is an AI-based voice-controlled system that delivers perso
 </ol>
 
 ## Example Interactions
-<img src="https://github.com/Eshita-Badhe/Virtual_News_Reporter/blob/main/images/interface.png" alt="News Interaction Interface" style="width:50%;height:auto;">
+<img src="https://github.com/Eshita-Badhe/Virtual-News_Reporter/blob/main/images/interface.png" alt="News Interaction Interface" style="width:80%;height:auto;">
 
 ### Example : "Tell me the latest sports news"
-<img src="https://github.com/Eshita-Badhe/Virtual_News_Reporter/blob/main/images/demo.png" alt="Tech News Example" style="width:50%;height:auto;">
+<img src="https://github.com/Eshita-Badhe/Virtual-News_Reporter/blob/main/images/demo.png" alt="Tech News Example" style="width:80%;height:auto;">
 
 ## Contributing
 <p>Pull requests and suggestions are welcome! Fork the repo and submit your updates with clear descriptions.</p>
