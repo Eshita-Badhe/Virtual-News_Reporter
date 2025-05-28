@@ -10,8 +10,8 @@ from flask_login import LoginManager, UserMixin, login_user, login_required, log
 import random
 from flask_socketio import SocketIO
 
-genai.configure(api_key="AIzaSyCuapRLabI_e2RcqZKnHtJ84VQgdRixR-s")  # Replace with actual API key
-GNEWS_API_KEY = "bdd3a78acda72e202cc9ee3cedddc4a3"  # Replace with actual API key
+genai.configure(api_key="---")  # Replace with actual API key
+GNEWS_API_KEY = "---"  # Replace with actual API key
 
 # Initialize Speech Recognizer
 recognizer = sr.Recognizer()
