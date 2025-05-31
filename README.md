@@ -75,6 +75,10 @@ Virtual News Reporter is an AI-based voice-controlled system that delivers perso
     <li>Dark mode and custom themes</li>
 </ul>
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 <p>For feedback or contributions, connect us:</p>
 <ul>
