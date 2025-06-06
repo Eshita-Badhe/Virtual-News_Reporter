@@ -9,9 +9,12 @@ from flask_bcrypt import Bcrypt
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
 import random
 from flask_socketio import SocketIO
+from dotenv import load_dotenv
+import os
+load_dotenv() 
 
-genai.configure(api_key=os.getenv("GENAI_API_KEY")) # Replace with actual API key
-GNEWS_API_KEY = os.getenv("GNEWS_API_KEY")  # Replace with actual API key
+genai.configure(api_key=os.environ["GENAI_API_KEY"]) # Replace with actual API key
+GNEWS_API_KEY = os.environ["GNEWS_API_KEY"]  # Replace with actual API key
 
 # Initialize Speech Recognizer
 recognizer = sr.Recognizer()
