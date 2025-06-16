@@ -22,6 +22,11 @@ recognizer = sr.Recognizer()
 app = Flask(__name__, template_folder=".")
 app.secret_key = "supersecretkey"
 
+
+@app.route('/voice.png')
+def serve_icon():
+    return send_from_directory('assets', 'voice.png')
+
 socketio = SocketIO(app, cors_allowed_origins="*", async_mode="threading")
 
 bcrypt = Bcrypt(app)
