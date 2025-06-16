@@ -1,6 +1,5 @@
 node_modules/
 .npm
 .env
-requirements.txt
 package-lock.json
 package.json
